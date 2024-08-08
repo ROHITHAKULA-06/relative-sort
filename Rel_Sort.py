@@ -6,7 +6,6 @@ def Rs(l1,l2):
        c=i-1
        for j in range(c,-1,-1):
            if(x==l2[j]):
-               print(c)
                y=True
                break
        if y:
